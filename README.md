@@ -1,3 +1,5 @@
+linux
+====
 #Get source code
 
 git clone https://github.com/tommy1008/ssh-command.git
@@ -20,8 +22,10 @@ pip install -r requirements.txt
 
 ./run.bat
 
-window :downlaod code in zip  and followinf step
+window 
 ===
+downlaod code in zip  and following step
+
 python -m venv venv 
 
 .\venv\Scripts\activate.bat
