@@ -8,7 +8,6 @@ cd ssh-command/
 
 #setup the python and install plugin
 
-sudo chmod +x *.sh
 
 sudo chmod +x *.bat 
 
