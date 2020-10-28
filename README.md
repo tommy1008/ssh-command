@@ -1,12 +1,9 @@
-Readme
+# ssh-command
+ use commandlinein python 
+git clone https://github.com/tommy1008/ssh-command.git
+cd ssh-command/
 
-
-#follow steps to use 
-#linux
-cd ssh-command/ 
-sudo chmod +x *.bat 
-python -m venv venv 
-source venv/bin/activate 
-pip install -r requirements.txt 
-./run.bat 
+sudo chmod +x *.sh
+#setup the python and install plugin
+./setup
 
