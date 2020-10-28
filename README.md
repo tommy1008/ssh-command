@@ -21,7 +21,7 @@ pip install -r requirements.txt
 ./run.bat
 
 window :
-downlaod code in zip 
+downlaod code in zip  and followinf step
 
 python -m venv venv 
 
