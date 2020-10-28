@@ -1,6 +1,8 @@
 #get the source code
 git clone https://github.com/tommy1008/ssh-command.git
+
 #follow steps to use 
+
 #linux
 cd ssh-command/ 
 
