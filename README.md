@@ -1,5 +1,7 @@
 linux
 ====
+Copy  the command  to set up python Library 
+
 #Get source code
 
 git clone https://github.com/tommy1008/ssh-command.git
@@ -23,7 +25,7 @@ pip install -r requirements.txt
 
 window 
 ===
-downlaod code in zip  and following step
+downlaod code in zip  and following step to set up python Library 
 
 python -m venv venv 
 
