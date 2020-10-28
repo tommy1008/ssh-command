@@ -19,3 +19,14 @@ pip install -r requirements.txt
 #run
 
 ./run.bat
+
+window :
+downlaod code in zip 
+
+python -m venv venv 
+
+.\venv\Scripts\activate.bat
+
+pip install -r requirements.txt 
+
+./run.bat
