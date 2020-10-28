@@ -1,1 +1,1 @@
-python main.py  -h "52.26.86.191" -p "22" -u "centos" -k "./pem/cenique2.pem" -c "curl http://169.254.169.254/latest/meta-data/public-ipv4" 
+python main.py  -h "<hostname>" -p "22" -u "<username>" -k "./pem/<key>" -c "<command>" 
