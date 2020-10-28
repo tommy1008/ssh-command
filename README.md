@@ -1,5 +1,6 @@
 Readme
-<<<<<<< HEAD
+
+
 #follow steps to use 
 #linux
 cd ssh-command/ 
@@ -8,7 +9,4 @@ python -m venv venv
 source venv/bin/activate 
 pip install -r requirements.txt 
 ./run.bat 
-=======
-
->>>>>>> 
 
