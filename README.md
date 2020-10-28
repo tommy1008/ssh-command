@@ -32,3 +32,7 @@ python -m venv venv
 pip install -r requirements.txt 
 
 ./run.bat
+
+Tips
+===
+can use more than one  -c to run muiple command 
